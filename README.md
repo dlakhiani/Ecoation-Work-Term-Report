@@ -8,6 +8,7 @@ This blog post is dedicated to my two-term, co-op internship at Ecoation Innovat
 ## About Ecoation
 
 Ecoation Innovative Solutions Inc. is an award-winning agricultural technology start-up, having designed and developed artificial intelligence (AI) and robotic vehicles that diagnose crop health in commercial greenhouses with minimal physical effort. Currently based in Vancouver, BC, Ecoation is focused on bringing the future of agriculture to focus, combining human knowledge and experience with machine precision and automation to increase operational visibility, assist growers and enhance decision making.
+
 ![ecoation_logo](images/logo.png)
 
 ## Job Description
@@ -16,8 +17,10 @@ As an Embedded Software Engineer, my duties ranged from developing and testing a
 
 The very essence of a software engineer is their ability to adapt and overcome any challenges they come to face; being a part of Ecoation presented me with this exact opportunity as I had to work with new technologies daily, such as ROS (Robot Operating System) and Docker. These were a few of the skills I had to pick up on the job, ROS being a distributed framework of Python and C++, and Docker being an open-source containerization platform used to develop, manage and deploy virtualized environments.
 
+![ros_docker](images/ros_docker.png)
+
 ---
-## Summer 2021 Goals
+## **Summer 2021 Goals**
 
 ### Expand on my knowledge by learning new languages, technologies, and frameworks that are popular in the software industry.
 
@@ -31,8 +34,7 @@ The very essence of a software engineer is their ability to adapt and overcome a
 
 - Curiosity is what fuels my passion for programming and software. During this internship, I was able to go beyond what a certain technology does, through researching how the technology is used, and the differences between their counterparts. With this in mind, I would deem myself successful in completing this goal as I can cohesively explain what a certain technology does in comparison to another, such as why ROS can use both Python and C++ in tandem.
 
-## Fall 2021 Goals
----
+## **Fall 2021 Goals**
 
 ### Learn and experiment with Docker.
 
@@ -53,4 +55,6 @@ Ecoation Innovative Solutions Inc. will always have a place in my heart. Working
 
 ## Acknowledgments
 
-Of the many acknowledgments, I would like to thank Jennifer Irwin, the Human Resources Manager for Ecoation Innovative Solutions Inc., for presenting me with this opportunity and taking a chance with me as their intern. Alongside her, Patrick Wspanialy - director of R&D, mentor, punk lover, and robot enthusiast. He welcomed me into Ecoation and showed me the ropes early on, trusted my decisions, and helped me embrace any challenges I faced. I would like to share my gratitude with them for making my first co-op a memorable one and one that I would cherish! 😄
+Of the many acknowledgments, I would like to thank Jennifer Irwin, the Human Resources Manager for Ecoation Innovative Solutions Inc., for presenting me with this opportunity and taking a chance with me as their intern. Alongside her, Patrick Wspanialy - director of R&D, mentor, punk lover, and robot enthusiast. He welcomed me into Ecoation and showed me the ropes early on, trusted my decisions, and helped me embrace any challenges I faced. I would like to share my gratitude with them for making my first co-op a memorable one and one that I would cherish! 👋😄
+
+![celebration](images/celebration.jpg)
